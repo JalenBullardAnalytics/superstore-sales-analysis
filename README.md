@@ -34,5 +34,5 @@ This project analyzes multi-year retail sales data to identify revenue trends, r
 
 ## Files
 - `sql_queries.sql` – SQL queries used for analysis
-- `superstore_analysis.xlsx` – Cleaned dataset and calculations
+- `Superstore Dataset Spreadsheet.xlsx` – Cleaned dataset and calculations
 - `visuals/` – Charts and dashboard screenshots
